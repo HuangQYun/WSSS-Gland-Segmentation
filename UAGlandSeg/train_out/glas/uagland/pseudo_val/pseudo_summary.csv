@@ -1,0 +1,11 @@
+image,name,area_ratio,tissue_ratio,mean_score_fg
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_45.png,train_45,0.32611049314052654,0.8635520949202818,0.6698729395866394
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_54.png,train_54,0.5037350142133235,0.992806822395254,0.725326657295227
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_60.png,train_60,0.5103646026449141,0.9922284019280683,0.7173905372619629
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_62.png,train_62,0.4061648745519713,0.9342207390928192,0.6746535301208496
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_63.png,train_63,0.3389716969472253,0.9061920652576937,0.6770062446594238
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_66.png,train_66,0.42878012606599925,0.9781806945989371,0.7244017124176025
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_7.png,train_7,0.29263127911639814,0.8047613158082131,0.6467165350914001
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_71.png,train_71,0.4048523050302806,0.962054134223211,0.7093138098716736
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_76.png,train_76,0.3964306019033494,0.8421999752811766,0.7502948045730591
+D:\1unified_seg\Gland_Segmentation\UAGlandSeg\train_out\glas\uagland\splits\val_images\train_82.png,train_82,0.42406871832900755,0.982763564454332,0.6933106780052185

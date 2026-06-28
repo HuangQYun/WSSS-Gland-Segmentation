@@ -1,0 +1,23 @@
+# Example configuration for a GlaS-style unsupervised experiment.
+# Paths are relative to the repository root if you run commands there.
+train_images: "SSL_Segmentation/Semantic Segmentation/Data/train/thumb"
+test_images: "SSL_Segmentation/Semantic Segmentation/Data/test/thumb"
+test_masks: "SSL_Segmentation/Semantic Segmentation/Data/test/mask"
+workdir: "runs/uaglandseg_glas"
+encoder: "dinov2"
+dinov2_model: "dinov2_vits14"
+dinov2_local_repo: "dinov2-main"
+image_size: 518
+num_prototypes: 8
+foreground_prototypes: 3
+threshold: "otsu"
+use_crf: true
+crop_size: 512
+epochs: 80
+rounds: 2
+batch_size: 4
+learning_rate: 0.0001
+boundary_weight: 0.2
+consistency_weight: 0.1
+ema_decay: 0.99
+seed: 2026
